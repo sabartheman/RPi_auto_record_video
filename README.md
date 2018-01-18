@@ -12,7 +12,7 @@ Currently how this used by the creator is to do the series of steps
 3. restart the pi
 
 
-**this is assuming that you have the video recording starting right away on the pi, 
+**this is assuming that you have the video recording starting right away on the pi**
 
 Example: (having this command running through a script or just typing it into the command line)
 
